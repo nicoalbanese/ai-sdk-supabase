@@ -6,8 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^0.0.34",
     "@supabase/ssr": "latest",
     "@supabase/supabase-js": "latest",
+    "ai": "^3.2.15",
     "autoprefixer": "10.4.17",
     "geist": "^1.2.1",
     "next": "latest",
